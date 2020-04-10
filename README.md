@@ -19,4 +19,4 @@ Clone the repo, or raw scrape the sudoku_solver.py file. run the file directly
 ```python
 python sudoku_solver.py
 ```
-the code should run. If it doesn't, report the issue on this [email](www.kaustubhwankhede@gmail.com)   
+the code should run. If it doesn't, report the issue on this [email](mailto:kaustubhwankhede@gmail.com)   
