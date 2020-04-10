@@ -1,9 +1,9 @@
 # Sudoku_Solver
 A graphic program to solve an unsolved sudoku, and return all possible solution to input set
 
-##pre-requisites
+## pre-requisites
 tkinter and numpy are used in this project. tkinter should already be available as an internal module in your python build.
-numpy version 1.17.4 was used when this project was last updated
+**numpy version 1.17.4** was used when this project was last updated
 to check your numpy version
 ```bash
 python -c "import numpy; print(numpy.version.version)"
