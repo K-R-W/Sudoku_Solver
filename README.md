@@ -8,8 +8,6 @@ to check your numpy version
 ```bash
 python -c "import numpy; print(numpy.version.version)"
 ```
-it should output 1.17.4 or above for no possiblity of any numpy related issues
-
 to install numpy:
 ```bash
 pip install numpy
@@ -27,7 +25,7 @@ Now enter your sudoku numbers. The blocks which are empty in the sudoku should b
 
 ![Image of filled sudoku](https://github.com/K-R-W/Sudoku_Solver/blob/master/sample_images/filled_sudoku.png)
 
-Now press submit, andyou shall get another window with all possible solutions to the input sudoku
+Now press submit, and you shall get another window with all possible solutions to the input sudoku.
 
 ![Image of result](https://github.com/K-R-W/Sudoku_Solver/blob/master/sample_images/result.png)
 
